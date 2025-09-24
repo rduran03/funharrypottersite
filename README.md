@@ -2,7 +2,7 @@
 
 This project is a whimsical, interactive web experience designed to immerse users in the enchanting world of Harry Potter. From receiving your acceptance letter to exploring Diagon Alley and casting spells, this website offers a delightful journey for fans of all ages.
 
-## ✨ Features
+## Features
 
 * **Hogwarts Acceptance Letter:** A magical modal welcomes you to Hogwarts.
 
@@ -40,7 +40,7 @@ This project is a whimsical, interactive web experience designed to immerse user
 
 * **Particle Background:** A subtle, magical particle effect enhances the overall ambiance.
 
-## 🚀 Getting Started
+## Getting Started
 
 To run this project locally, simply follow these steps:
 
@@ -83,7 +83,7 @@ To run this project locally, simply follow these steps:
 
     * <https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Crimson+Text:wght@400;600&display=swap>
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to:
 
