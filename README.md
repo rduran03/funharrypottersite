@@ -8,7 +8,7 @@ This project is a whimsical, interactive web experience designed to immerse user
 
 * **Interactive Navigation:** Explore various sections of the wizarding world through a themed navigation bar.
 
-* **Dynamic Potions & Messages:** Click on potion bottles to reveal hidden magical messages.
+* **Dynamic Potions & Messages:** Click on potion bottles to reveal hidden magical messages. 
 
 * **Marauder's Map:** Discover iconic locations within Hogwarts and beyond, with interactive details.
 
