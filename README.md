@@ -1,4 +1,4 @@
-# Welcome to Hogwarts: A Magical Web Experience
+# Welcome to Hogwarts: A Magical Web Experience 
 
 This project is a whimsical, interactive web experience designed to immerse users in the enchanting world of Harry Potter. From receiving your acceptance letter to exploring Diagon Alley and casting spells, this website offers a delightful journey for fans of all ages.
 
